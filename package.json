@@ -1,0 +1,33 @@
+{
+  "name": "gulp-src",
+  "version": "1.0.0",
+  "description": "Get files or dependencies from YAML file (.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matpo/gulp-src.git"
+  },
+  "devDependencies": {
+	"path": "^0.12.7",
+	"js-yaml": "^3.6.1",
+	"fs": "0.0.1-security",
+  }
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "yaml",
+    "yml",
+    "sources",
+    "gulp-sources",
+    "source"
+  ],
+  "author": "Matthieu Poletti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matpo/gulp-src/issues"
+  },
+  "homepage": "https://github.com/matpo/gulp-src#readme"
+}
