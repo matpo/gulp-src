@@ -1,5 +1,6 @@
-"# gulp-src" 
-Get files or dependencies from YAML file (.yml)
+# gulp-src
+
+## A Gulp plugin for get files or dependencies from YAML file (.yml)
 
 Usage in gulpfile.js:
 ```javascript
@@ -20,7 +21,7 @@ scripts:
   - node_modules/jquery/dist/jquery.min.js
 
 #styles:
-  # your stylesheet here...
+  # your stylesheets here...
 
 # you can add any other folder
 ```
