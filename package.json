@@ -11,10 +11,10 @@
     "url": "git+https://github.com/matpo/gulp-src.git"
   },
   "dependencies": {
-	"path": "^0.12.7",
-	"js-yaml": "^3.6.1",
-	"fs": "0.0.1-security",
-	"through2": "^2.0.0",
+    "path": "^0.12.7",
+    "js-yaml": "^3.6.1",
+    "fs": "0.0.1-security",
+    "through2": "^2.0.0",
   }
   "keywords": [
     "gulpplugin",
